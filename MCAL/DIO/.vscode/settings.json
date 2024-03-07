@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dio_config.h": "c",
+        "dio_private.h": "c"
+    }
+}
